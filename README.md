@@ -1,3 +1,8 @@
 ### Hi there 👋
-I like rust
-I like eggs
+
+<p>
+- I like <b>rust</b>
+  <br>
+- I like <b>eggs</b>  
+</p>
+
